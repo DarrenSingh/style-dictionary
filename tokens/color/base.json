@@ -8,7 +8,8 @@
       },
       "red": { "value": "#FF0000" },
       "green": { "value": "#00FF00" },
-      "blue": { "value": "#1BA5D9" }
+      "blue": { "value": "#1BA5D9" },
+      "purple" : { "value" : "#8060DB" }
     }
   }
 }
